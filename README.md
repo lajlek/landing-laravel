@@ -4,7 +4,7 @@ This application creates a links landing page where you can share relevant links
 Links are initially imported from a `links.yml` file in the root of the application, and can be managed via Artisan commands (in the console / command-line).
 
 <p align="center">
-<a title="Deploy this application to DigitalOceans App Platform in a few clicks!" href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/do-community/landing-laravel/tree/main"><img src="https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg" alt="Deploy to DO button"></a>
+<a title="Deploy this application to DigitalOceans App Platform in a few clicks!" href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/lajlek/landing-laravel/tree/main"><img src="https://mp-assets1.sfo2.digitaloceanspaces.com/deploy-to-do/do-btn-blue.svg" alt="Deploy to DO button"></a>
 </p>
 
 ![Landing Laravel - application screenshot](https://assets.digitalocean.com/articles/landing_laravel_series/landing_final.png)
